@@ -440,6 +440,14 @@ left: 30px;
     }
 
     
+     header .logo{
+        width: 17rem;
+        position: absolute;
+        top: -55px;
+        left: 30px;
+        }
+    
+    
     .header .navbar{
         position: absolute;
         top:100%;
@@ -510,9 +518,9 @@ left: 30px;
     }
 
     header .logo{
-        width: 20rem;
+        width: 15rem;
         position: absolute;
-        top: -63px;
+        top: -42px;
         left: 30px;
         }
 
